@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Mostrar mensajes recibidos del primer tópico -->
+    <TextView
+        android:id="@+id/textViewCoordenadas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Coordenadas vehículo no disponibles"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:background="@android:color/darker_gray"
+        android:textColor="@android:color/white" />
+
+    <!-- Mostrar mensajes recibidos del segundo tópico -->
+    <TextView
+        android:id="@+id/textView2Coordenadas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Datos del vehículo no disponibles"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white" />
+</LinearLayout>

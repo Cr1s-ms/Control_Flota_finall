@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108054636475",
+    "project_id": "controlflota-89f1d",
+    "storage_bucket": "controlflota-89f1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108054636475:android:bb99ec130b60bd0394c69e",
+        "android_client_info": {
+          "package_name": "com.cms_dev.control_flota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDJLQ7oJKPHAQTwopnrLvPKbXupnz__c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
