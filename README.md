@@ -18,3 +18,6 @@
 ![imag2e](https://github.com/user-attachments/assets/7ddafc79-1366-4f02-b154-58989b491424)
 ![image23](https://github.com/user-attachments/assets/985a4633-f1e2-4776-b231-8664af9a9f13)
 ![ima22ge](https://github.com/user-attachments/assets/196d06fa-6678-457c-a1b2-966e820c529d)
+
+
+## (Importante destacar la App esta sujeta a cambios)
