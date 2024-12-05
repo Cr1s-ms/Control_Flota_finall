@@ -15,7 +15,7 @@
 ## Envio de datos mediante una app la cual envia el mensaje via mqtt
 ![Screenshot_20241204_195338_IoT_MQTT_Panel](https://github.com/user-attachments/assets/d5258064-e5bc-4497-b474-21d11bb2222a)
 
-## Las funcionalidades Firebase con Cloud Firestone consisten en:
+## Las funcionalidades Firebase con Cloud Firestore consisten en:
 - Agregar conductores con su respectivo vehiculo a cargo los cuales estarán registrados en la base de datos
 
 
